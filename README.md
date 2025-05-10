@@ -66,7 +66,7 @@ You can open the notebook using Jupyter or VS Code.
 ### 4. Launch the Web App
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
@@ -98,8 +98,4 @@ You can customize the training process (e.g., number of epochs, dataset, model s
 ## 🧾 License
 
 This project is licensed under the MIT License.
-
-```
-
----
 ```
